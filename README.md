@@ -64,7 +64,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [HOPL](https://hopl.info): Online Historical Encyclopaedia of Programming Languages.
-* [Iconfinder](www.iconfinder.com): Millions of graphics for your design projects. Created by independent designers.
+* [Iconfinder](https://www.iconfinder.com): Millions of graphics for your design projects. Created by independent designers.
 * [IBM](https://www.ibm.com/): International Business Machines Corporation, an American multinational technology corporation providing computer hardware, software and consulting services.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
